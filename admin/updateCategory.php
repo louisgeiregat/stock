@@ -49,7 +49,7 @@
                 ?>
                 <div class="form-group my-3">
                     <label for="nom">Nom de la catégorie</label>
-                    <input type="text" id="nom" name="nom" class="form-control" value="<?= $don['name'] ?>">
+                    <input type="text" id="nom" name="nom" class="form-control">
                 </div>
                 <div class="form-group">
                     <input type="submit" value="Modifier" class="btn btn-warning">
